@@ -16,3 +16,11 @@
 [03-Apr-2024 00:04:51 UTC] PHP Warning:  Use of undefined constant PHP - assumed 'PHP' (this will throw an Error in a future version of PHP) in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/functions.php on line 1
 [03-Apr-2024 00:04:51 UTC] PHP Warning:  Use of undefined constant PHP - assumed 'PHP' (this will throw an Error in a future version of PHP) in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/functions.php on line 1
 [03-Apr-2024 00:04:52 UTC] PHP Warning:  Use of undefined constant PHP - assumed 'PHP' (this will throw an Error in a future version of PHP) in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/functions.php on line 1
+[05-Apr-2024 17:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_them_mod() in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/banner-title.php:113
+Stack trace:
+#0 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-includes/template.php(812): require()
+#1 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-includes/template.php(745): load_template('/Users/michaelp...', false, Array)
+#2 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php(4): get_template_part('template-parts/...', 'title')
+#4 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-includes/template-loader.php(106): include('/Users/michaelp...')
+#5 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-blog-header.php(19): require_once('/Users/michae in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/banner-title.php on line 113

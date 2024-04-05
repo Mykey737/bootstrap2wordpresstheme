@@ -1,41 +1,9 @@
 <?php 
 
     get_header();
+    get_template_part('template-parts/banner', 'title');
 
 ?>
-      
-        <section class="title-banner">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-10 offset-md-1 col-sm-12 offset-sm-0 overflow-hidden text-center">
-                <p class="tag-line sub-title">Bootstrap to WordPress Course 2.0</p>
-                <h1 class="page-title">Blog</h1>
-              </div>
-            </div>
-          </div>
-        </section>
-      
-        <section class="subscribe-bar">
-          <div class="container">
-            <div class="row flex-vertical-center">
-              <div class="col-sm-6">
-                <p><strong>Want to save 20% on the course?</strong> Enter you email and we'll send you the discount code!</p>
-              </div>
-              <div class="col-sm-6">
-                <form class="" action="index.html" method="post">
-                  <div class="row">
-                    <div class="col-lg-8">
-                      <input type="text" name="" value="">
-                    </div>
-                    <div class="col-lg-4">
-                      <button type="button" name="button" class="btn btn-invert">Subscribe</button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </section>
       
         <div class="content-area">
           <div class="container">
