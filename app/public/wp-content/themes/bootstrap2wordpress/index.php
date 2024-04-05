@@ -1,5 +1,18 @@
 <?php 
 
+ /** 
+     * The main template file
+     * 
+     * This is the most generic template file of the WordPress theme and one of two required files for a theme (the other being style.css).It is used to display a page when nothing more specific matches a query. 
+     * E.G., it puts together the home page when no home.php file exists. 
+     * 
+     * @link https://developer.wordpress.org/themes/basics/template-hierachy
+     * 
+     * @package bootstrap2wordpress
+     * @since 2.0
+     * 
+    */
+
     get_header();
     get_template_part('template-parts/banner', 'title');
 
@@ -9,60 +22,27 @@
           <div class="container">
             <div class="row">
               <div class="col-md-8 offset-md-2 overflow-hidden">
-                <article class="post my-5">
-                  <div class="meta">
-                    <span>Mar 7, 2024</span>
-                  </div>
-                  <h2><a href="#">Blog post title</a></h2>
-                  <p class="excerpt">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
-                  </p>
-                  <a href="#" class="read-more">Read the full post -&gt;</a>
-                </article>
-      
-                <article class="post my-5">
-                  <div class="meta">
-                    <span>Mar 7, 2024</span>
-                  </div>
-                  <h2><a href="#">Blog post title</a></h2>
-                  <p class="excerpt">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
-                  </p>
-                  <a href="#" class="read-more">Read the full post -&gt;</a>
-                </article>
-      
-                <article class="post my-5">
-                  <div class="meta">
-                    <span>Mar 7, 2024</span>
-                  </div>
-                  <h2><a href="#">Blog post title</a></h2>
-                  <p class="excerpt">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
-                  </p>
-                  <a href="#" class="read-more">Read the full post -&gt;</a>
-                </article>
-      
-                <article class="post my-5">
-                  <div class="meta">
-                    <span>Mar 7, 2024</span>
-                  </div>
-                  <h2><a href="#">Blog post title</a></h2>
-                  <p class="excerpt">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
-                  </p>
-                  <a href="#" class="read-more">Read the full post -&gt;</a>
-                </article>
-      
-                <article class="post my-5">
-                  <div class="meta">
-                    <span>Mar 7, 2024</span>
-                  </div>
-                  <h2><a href="#">Blog post title</a></h2>
-                  <p class="excerpt">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
-                  </p>
-                  <a href="#" class="read-more">Read the full post -&gt;</a>
-                </article>
+
+                <?php 
+
+                    //are the any posts in the DB
+                    if ( have_posts() ) {
+
+                        while( have_posts() ) {
+
+                            the_post();
+                            get_template_part( 'template-parts/content', 'excerpt' );
+
+                        }
+
+                    } else {
+
+                        get_template_part( 'template-parts/content', 'none' );
+                    }    
+
+                ?>
+                
+
       
               </div>
             </div>

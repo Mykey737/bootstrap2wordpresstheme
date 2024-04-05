@@ -24,3 +24,4 @@ Stack trace:
 #3 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php(4): get_template_part('template-parts/...', 'title')
 #4 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-includes/template-loader.php(106): include('/Users/michaelp...')
 #5 /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-blog-header.php(19): require_once('/Users/michae in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/template-parts/banner-title.php on line 113
+[05-Apr-2024 20:45:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /Users/michaelpena/Local Sites/bootstrap2wordpress/app/public/wp-content/themes/bootstrap2wordpress/index.php on line 23
