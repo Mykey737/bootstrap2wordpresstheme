@@ -1,4 +1,3 @@
-import $ from "https://esm.sh/jquery";
 (function ($) {
   "use strict";
 
