@@ -18,36 +18,35 @@
 
 ?>
       
-        <div class="content-area">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-8 offset-md-2 overflow-hidden">
+<div class="content-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 overflow-hidden">
 
-                <?php 
+        <?php 
 
-                    //are the any posts in the DB
-                    if ( have_posts() ) {
+            //are the any posts in the DB
+            if ( have_posts() ) {
 
-                        while( have_posts() ) {
+                while( have_posts() ) {
 
-                            the_post();
-                            get_template_part( 'template-parts/content', 'excerpt' );
+                    the_post();
+                    get_template_part( 'template-parts/content', 'excerpt' );
 
-                        }
-                        b2w_pagination();
+                }
+                b2w_pagination();
 
-                    } else {
+            } else {
 
-                        get_template_part( 'template-parts/content', 'none' );
-                    }    
+                get_template_part( 'template-parts/content', 'none' );
+            }    
 
-                ?>
-                
+        ?>
 
-      
-              </div>
-            </div>
-          </div>
-        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-        <?php get_footer(); ?>
+<?php 
+get_footer();
