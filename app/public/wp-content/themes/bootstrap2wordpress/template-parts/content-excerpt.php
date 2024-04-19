@@ -11,13 +11,13 @@
 ?>
 
 
-<article class="post">
+<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     <div class="meta">
-        <span>Mar 7, 2024</span>
+        <span><?php echo get_the_date( 'M d, Y' ); ?></span>
     </div>
-    <h2><a href="#">Blog post title</a></h2>
+    <h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?> </a></h2>
     <p class="excerpt">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora, quia. Hic, temporibus? Aspernatur a ea consequatur. Corrupti soluta nostrum asperiores iure cupiditate, tempora velit beatae magnam maxime tempore vero dolor!
+        <?php force_balance_tags( the_excerpt() ); ?>
     </p>
-    <a href="#" class="read-more">Read the full post -&gt;</a>
+    <a href="<?php the_permalink(); ?>" class="read-more"><?php esc_html_e( 'Read the full post ->', 'bootstrap2wordpress' ); ?></a>
 </article>

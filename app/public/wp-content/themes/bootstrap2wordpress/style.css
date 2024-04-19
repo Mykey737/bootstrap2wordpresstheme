@@ -750,6 +750,39 @@ Text Domain: bootstrap2wordpress
     color: var(--color-green);
     padding-left: 5px;
   }
+
+  .b2w_pagination {
+    position: relative;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .b2w_pagination li {
+    position: relative;
+    margin-left: 6px;
+    display: inline-block;
+  }
+
+  .b2w_pagination li .page-numbers {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    color: #161616;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    display: inline-block;
+    transition: all var(--trans-dur) ease;
+
+  }
+
+  .b2w_pagination li .page-numbers.current,
+  .b2w_pagination li:hover a {
+    color: #fff;
+    background-color: var(--color-pink);
+  }  
   
   /* Footer Section */
   

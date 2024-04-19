@@ -14,7 +14,7 @@ if ( is_home() && current_user_can( 'publish_posts' ) ) {
 
     printf(
         '<p>' . wp_kses(
-            /* translators: %s: link to WP admin new post page */
+            /* translators: 1: link to WP admin new post page */
             __( 'Ready to publish your first post? <a href="%1$s">Get started here</a>.', 'bootstrap2wordpress' ),
             array (
                 'a' => array(
@@ -22,7 +22,7 @@ if ( is_home() && current_user_can( 'publish_posts' ) ) {
                 ),
             )
         ) . '</p>',
-        esc_url( admin_url( 'new-post.php' ) )
+        esc_url( admin_url( 'post-new.php' ) )
     );
 
 } elseif ( is_search() ) {
