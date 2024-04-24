@@ -98,3 +98,6 @@
         $links .= '</nav>';
         echo wp_kses_post( $links );
     }
+
+    /* Add Customizer Functionality */
+    require get_template_directory() . '/includes/customizer-b2w.php';
