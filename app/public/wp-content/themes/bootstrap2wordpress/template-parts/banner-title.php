@@ -66,7 +66,7 @@
 
         ?>
 
-            <h1><?php esc_html_e( 'Bootstrap To WordPress Blog', 'bootstrap2wordpress' ); ?></h1>
+            <h1><?php echo wp_kses_post( get_theme_mod( 'banner_heading', 'Bootstrap To Wordpress Blog' ) ); ?></h1>
 
         <?php
 

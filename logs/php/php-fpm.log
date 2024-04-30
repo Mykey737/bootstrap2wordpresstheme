@@ -12,3 +12,285 @@
 [22-Apr-2024 23:08:52] NOTICE: exiting, bye-bye!
 [23-Apr-2024 13:56:19] NOTICE: fpm is running, pid 3619
 [23-Apr-2024 13:56:19] NOTICE: ready to handle connections
+[29-Apr-2024 11:50:19] NOTICE: Terminating ...
+[29-Apr-2024 11:50:19] NOTICE: Terminating ...
+[29-Apr-2024 11:50:19] NOTICE: exiting, bye-bye!
+[29-Apr-2024 11:51:26] NOTICE: fpm is running, pid 45620
+[29-Apr-2024 11:51:26] NOTICE: ready to handle connections
+[29-Apr-2024 12:04:02] NOTICE: Terminating ...
+[29-Apr-2024 12:04:02] NOTICE: Terminating ...
+[29-Apr-2024 12:04:02] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:04:55] NOTICE: fpm is running, pid 45874
+[29-Apr-2024 12:04:55] NOTICE: ready to handle connections
+[29-Apr-2024 12:06:19] NOTICE: Terminating ...
+[29-Apr-2024 12:06:19] NOTICE: Terminating ...
+[29-Apr-2024 12:06:19] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:32:27] NOTICE: fpm is running, pid 46572
+[29-Apr-2024 12:32:27] NOTICE: ready to handle connections
+[29-Apr-2024 12:34:08] NOTICE: Terminating ...
+[29-Apr-2024 12:34:08] NOTICE: Terminating ...
+[29-Apr-2024 12:34:08] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:39:23] NOTICE: fpm is running, pid 46824
+[29-Apr-2024 12:39:23] NOTICE: ready to handle connections
+[29-Apr-2024 12:39:45] NOTICE: Terminating ...
+[29-Apr-2024 12:39:45] NOTICE: Terminating ...
+[29-Apr-2024 12:39:45] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:40:03] NOTICE: fpm is running, pid 46899
+[29-Apr-2024 12:40:03] NOTICE: ready to handle connections
+[29-Apr-2024 12:40:16] NOTICE: Terminating ...
+[29-Apr-2024 12:40:16] NOTICE: Terminating ...
+[29-Apr-2024 12:40:16] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:42:55] NOTICE: fpm is running, pid 47060
+[29-Apr-2024 12:42:55] NOTICE: ready to handle connections
+[29-Apr-2024 12:48:41] NOTICE: Terminating ...
+[29-Apr-2024 12:48:41] NOTICE: Terminating ...
+[29-Apr-2024 12:48:41] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:49:08] NOTICE: fpm is running, pid 47333
+[29-Apr-2024 12:49:08] NOTICE: ready to handle connections
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-8.0.22+4/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-8.0.22+4/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 12:49:26] WARNING: [pool www] child 47342 exited on signal 6 (SIGABRT) after 17.991577 seconds from start
+[29-Apr-2024 12:49:26] NOTICE: [pool www] child 47360 started
+[29-Apr-2024 12:49:46] NOTICE: Terminating ...
+[29-Apr-2024 12:49:46] NOTICE: Terminating ...
+[29-Apr-2024 12:49:46] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:50:00] NOTICE: fpm is running, pid 47382
+[29-Apr-2024 12:50:00] NOTICE: ready to handle connections
+[29-Apr-2024 12:50:28] NOTICE: Terminating ...
+[29-Apr-2024 12:50:28] NOTICE: Terminating ...
+[29-Apr-2024 12:50:28] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:50:29] NOTICE: fpm is running, pid 47426
+[29-Apr-2024 12:50:29] NOTICE: ready to handle connections
+[29-Apr-2024 12:50:36] NOTICE: Terminating ...
+[29-Apr-2024 12:50:36] NOTICE: Terminating ...
+[29-Apr-2024 12:50:36] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:52:20] NOTICE: fpm is running, pid 47558
+[29-Apr-2024 12:52:20] NOTICE: ready to handle connections
+[29-Apr-2024 12:52:38] NOTICE: Terminating ...
+[29-Apr-2024 12:52:38] NOTICE: Terminating ...
+[29-Apr-2024 12:52:38] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:52:40] NOTICE: fpm is running, pid 47591
+[29-Apr-2024 12:52:40] NOTICE: ready to handle connections
+[29-Apr-2024 12:52:52] NOTICE: Terminating ...
+[29-Apr-2024 12:52:52] NOTICE: Terminating ...
+[29-Apr-2024 12:52:52] NOTICE: exiting, bye-bye!
+[29-Apr-2024 12:53:47] NOTICE: fpm is running, pid 47698
+[29-Apr-2024 12:53:47] NOTICE: ready to handle connections
+[29-Apr-2024 12:54:10] NOTICE: Terminating ...
+[29-Apr-2024 12:54:10] NOTICE: Terminating ...
+[29-Apr-2024 12:54:10] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:07:17] NOTICE: fpm is running, pid 47948
+[29-Apr-2024 13:07:17] NOTICE: ready to handle connections
+[29-Apr-2024 13:07:37] NOTICE: Terminating ...
+[29-Apr-2024 13:07:37] NOTICE: Terminating ...
+[29-Apr-2024 13:07:38] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:07:45] NOTICE: fpm is running, pid 47979
+[29-Apr-2024 13:07:45] NOTICE: ready to handle connections
+[29-Apr-2024 13:12:56] NOTICE: Terminating ...
+[29-Apr-2024 13:12:56] NOTICE: Terminating ...
+[29-Apr-2024 13:12:56] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:13:11] NOTICE: fpm is running, pid 48098
+[29-Apr-2024 13:13:11] NOTICE: ready to handle connections
+[29-Apr-2024 13:13:20] NOTICE: Terminating ...
+[29-Apr-2024 13:13:20] NOTICE: Terminating ...
+[29-Apr-2024 13:13:20] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:13:24] NOTICE: fpm is running, pid 48131
+[29-Apr-2024 13:13:24] NOTICE: ready to handle connections
+[29-Apr-2024 13:28:21] NOTICE: Terminating ...
+[29-Apr-2024 13:28:21] NOTICE: Terminating ...
+[29-Apr-2024 13:28:21] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:29:24] NOTICE: fpm is running, pid 48453
+[29-Apr-2024 13:29:24] NOTICE: ready to handle connections
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:30:05] WARNING: [pool www] child 48456 exited on signal 6 (SIGABRT) after 40.939557 seconds from start
+[29-Apr-2024 13:30:05] NOTICE: [pool www] child 48480 started
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:30:32] WARNING: [pool www] child 48455 exited on signal 6 (SIGABRT) after 68.247871 seconds from start
+[29-Apr-2024 13:30:32] NOTICE: [pool www] child 48493 started
+[29-Apr-2024 13:31:08] NOTICE: Terminating ...
+[29-Apr-2024 13:31:08] NOTICE: Terminating ...
+[29-Apr-2024 13:31:08] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:31:23] NOTICE: fpm is running, pid 48542
+[29-Apr-2024 13:31:23] NOTICE: ready to handle connections
+[29-Apr-2024 13:31:35] NOTICE: Terminating ...
+[29-Apr-2024 13:31:35] NOTICE: Terminating ...
+[29-Apr-2024 13:31:35] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:31:47] NOTICE: fpm is running, pid 48578
+[29-Apr-2024 13:31:47] NOTICE: ready to handle connections
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:31:57] WARNING: [pool www] child 48586 exited on signal 6 (SIGABRT) after 9.622977 seconds from start
+[29-Apr-2024 13:31:57] NOTICE: [pool www] child 48594 started
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:32:17] WARNING: [pool www] child 48585 exited on signal 6 (SIGABRT) after 29.731560 seconds from start
+[29-Apr-2024 13:32:17] NOTICE: [pool www] child 48597 started
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:32:30] WARNING: [pool www] child 48594 exited on signal 6 (SIGABRT) after 32.638654 seconds from start
+[29-Apr-2024 13:32:30] NOTICE: [pool www] child 48605 started
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:23] WARNING: [pool www] child 48597 exited on signal 6 (SIGABRT) after 66.226999 seconds from start
+[29-Apr-2024 13:33:23] NOTICE: [pool www] child 48627 started
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:37] WARNING: [pool www] child 48605 exited on signal 6 (SIGABRT) after 67.176756 seconds from start
+[29-Apr-2024 13:33:37] NOTICE: [pool www] child 48628 started
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:43] WARNING: [pool www] child 48628 exited on signal 6 (SIGABRT) after 5.954191 seconds from start
+[29-Apr-2024 13:33:43] NOTICE: [pool www] child 48629 started
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:33:51] WARNING: [pool www] child 48627 exited on signal 6 (SIGABRT) after 27.539930 seconds from start
+[29-Apr-2024 13:33:51] NOTICE: [pool www] child 48630 started
+[29-Apr-2024 13:34:18] NOTICE: Terminating ...
+[29-Apr-2024 13:34:18] NOTICE: Terminating ...
+[29-Apr-2024 13:34:18] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:34:20] NOTICE: fpm is running, pid 48656
+[29-Apr-2024 13:34:20] NOTICE: ready to handle connections
+[29-Apr-2024 13:35:42] NOTICE: Terminating ...
+[29-Apr-2024 13:35:42] NOTICE: Terminating ...
+[29-Apr-2024 13:35:42] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:35:44] NOTICE: fpm is running, pid 48702
+[29-Apr-2024 13:35:44] NOTICE: ready to handle connections
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:18] WARNING: [pool www] child 48712 exited on signal 6 (SIGABRT) after 94.291152 seconds from start
+[29-Apr-2024 13:37:18] NOTICE: [pool www] child 48748 started
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:36] WARNING: [pool www] child 48711 exited on signal 6 (SIGABRT) after 112.252882 seconds from start
+[29-Apr-2024 13:37:36] NOTICE: [pool www] child 48757 started
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:37:38] WARNING: [pool www] child 48748 exited on signal 6 (SIGABRT) after 20.273297 seconds from start
+[29-Apr-2024 13:37:38] NOTICE: [pool www] child 48758 started
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:38:33] WARNING: [pool www] child 48758 exited on signal 6 (SIGABRT) after 54.423793 seconds from start
+[29-Apr-2024 13:38:33] NOTICE: [pool www] child 48766 started
+[29-Apr-2024 13:38:46] NOTICE: Terminating ...
+[29-Apr-2024 13:38:46] NOTICE: Terminating ...
+[29-Apr-2024 13:38:46] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:38:47] NOTICE: fpm is running, pid 48782
+[29-Apr-2024 13:38:47] NOTICE: ready to handle connections
+[29-Apr-2024 13:39:13] NOTICE: Terminating ...
+[29-Apr-2024 13:39:13] NOTICE: Terminating ...
+[29-Apr-2024 13:39:13] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:39:15] NOTICE: fpm is running, pid 48819
+[29-Apr-2024 13:39:15] NOTICE: ready to handle connections
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:23] WARNING: [pool www] child 48822 exited on signal 6 (SIGABRT) after 7.867339 seconds from start
+[29-Apr-2024 13:39:23] NOTICE: [pool www] child 48843 started
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:44] WARNING: [pool www] child 48843 exited on signal 6 (SIGABRT) after 21.290152 seconds from start
+[29-Apr-2024 13:39:44] NOTICE: [pool www] child 48845 started
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:39:48] WARNING: [pool www] child 48845 exited on signal 6 (SIGABRT) after 4.437330 seconds from start
+[29-Apr-2024 13:39:48] NOTICE: [pool www] child 48846 started
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:40:08] WARNING: [pool www] child 48823 exited on signal 6 (SIGABRT) after 53.501759 seconds from start
+[29-Apr-2024 13:40:08] NOTICE: [pool www] child 48853 started
+[29-Apr-2024 13:46:18] NOTICE: Terminating ...
+[29-Apr-2024 13:46:18] NOTICE: Terminating ...
+[29-Apr-2024 13:46:18] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:46:20] NOTICE: fpm is running, pid 48948
+[29-Apr-2024 13:46:20] NOTICE: ready to handle connections
+[29-Apr-2024 13:57:37] NOTICE: Terminating ...
+[29-Apr-2024 13:57:37] NOTICE: Terminating ...
+[29-Apr-2024 13:57:37] NOTICE: exiting, bye-bye!
+[29-Apr-2024 13:57:39] NOTICE: fpm is running, pid 49093
+[29-Apr-2024 13:57:39] NOTICE: ready to handle connections
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "dyld: lazy symbol binding failed: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "dyld: Symbol not found: ___darwin_check_fd_set_overflow"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "  Referenced from: /Users/michaelpena/Library/Application Support/Local/lightning-services/php-7.4.30+3/bin/darwin/sbin/../dylibs/libcurl.4.dylib (which was built for Mac OS X 11.0)"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 said into stderr: "  Expected in: /usr/lib/libSystem.B.dylib"
+[29-Apr-2024 13:57:50] WARNING: [pool www] child 49098 exited on signal 6 (SIGABRT) after 10.912235 seconds from start
+[29-Apr-2024 13:57:50] NOTICE: [pool www] child 49109 started
+[29-Apr-2024 19:42:10] NOTICE: Terminating ...
+[29-Apr-2024 19:42:10] NOTICE: Terminating ...
+[29-Apr-2024 19:42:10] NOTICE: exiting, bye-bye!
+[29-Apr-2024 22:54:43] NOTICE: fpm is running, pid 5355
+[29-Apr-2024 22:54:43] NOTICE: ready to handle connections
